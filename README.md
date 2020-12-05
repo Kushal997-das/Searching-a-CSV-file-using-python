@@ -34,7 +34,12 @@
 
 ## CSV file 👇
 
- - [System.csv](https://github.com/Kushal997-das/Searching-a-CSV-file-using-python/blob/master/Python%201-2/System.csv) <br>
+ - [System.csv](https://github.com/Kushal997-das/Searching-a-CSV-file-using-python/blob/master/Python%201-2/System.csv) <br><br>
+# Solution- 
+ 
+ 
+ 
+ 
 ## Solution  👇
 
  - [Solution.py](https://github.com/Kushal997-das/Searching-a-CSV-file-using-python/blob/master/Python%201-2/Finalproject.py) <br>
