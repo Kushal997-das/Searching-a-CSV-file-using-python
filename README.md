@@ -46,7 +46,7 @@
  
  
  
- <img align="center" alt="GIF"  width="357px" src="https://github.com/Kushal997-das/Searching-a-CSV-file-using-python/blob/master/Python%201-2/ezgif.com-gif-maker.gif" /> <br><br>
+ <img align="center" alt="GIF"  width="357px" src="https://github.com/Kushal997-das/Searching-a-CSV-file-using-python/blob/master/Python%201-2/demo.gif" /> <br><br>
 
 <h3 align="center">Show ❤️ By Starring My Repos!😊</h3>
 <br>
