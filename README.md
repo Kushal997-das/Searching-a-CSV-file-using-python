@@ -22,12 +22,12 @@
 
 
 
-1.If you are using windows system then, go to desktop press window + r key ,one run menu open.<br>
-2.Type 'eventvwr' in that run menu and then press 'ok' button.<br>
-3.A 'Event viewer' open and ,then go to the 'Windows Logs' expand it.<br>
-4.Right click on the 'System' file ,then click 'Save all event as..<br>
-5.Choose 'Save as type: 'CSV(Comma separated) format.<br>
-- Note:
+- If you are using windows system then, go to desktop press window + r key ,one run menu open.<br>
+- Type 'eventvwr' in that run menu and then press 'ok' button.<br>
+- A 'Event viewer' open and ,then go to the 'Windows Logs' expand it.<br>
+- Right click on the 'System' file ,then click 'Save all event as..<br>
+- Choose 'Save as type: 'CSV(Comma separated) format.<br>
+## Note:
 
   - Look at the video https://www.youtube.com/watch?v=X0WDzktpr5I, on how to reach 'System' and save it in your system.
 
