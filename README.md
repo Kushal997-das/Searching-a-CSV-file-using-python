@@ -30,3 +30,15 @@
 - Note:
 
   - Look at the video https://www.youtube.com/watch?v=X0WDzktpr5I, on how to reach 'System' and save it in your system.
+
+
+## CSV file 👇
+
+ - [System.csv](https://github.com/Kushal997-das/Searching-a-CSV-file-using-python/blob/master/Python%201-2/System.csv) <br>
+## Solution  👇
+
+ - [Solution.py](https://github.com/Kushal997-das/Searching-a-CSV-file-using-python/blob/master/Python%201-2/Finalproject.py) <br>
+ 
+ 
+ 
+ <img align="center" alt="GIF"  width="357px" src="https://github.com/Kushal997-das/Searching-a-CSV-file-using-python/blob/master/Python%201-2/ezgif.com-gif-maker.gif" />
