@@ -15,13 +15,8 @@ Event_ID=input("Enter the event_id..")
 col=[x[3] for x in data]
 #print(col)
 if Event_ID in col:
-
-    for x in range(0,len(data)):
-
-        if Event_ID==data[x][3]:
-
+    for x in range(1,len(data)):
+        if  Event_ID==data[x][3]:
             print(data[x])
-
 else:
     print("Opps ☹! Sorry There is No Event_ID like this please check it once and try again later. Thank you !😎")
-
